@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: f6345e0d525f4ed4f80dbba11619a3b1
+timeCreated: 1461019139
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: ChamferCyl002
+    100010: ChamferCyl011
+    100012: ChamferCyl012
+    100014: ChamferCyl013
+    100016: ChamferCyl014
+    100018: //RootNode
+    100020: Cylinder004
+    100022: Rectangle003
+    100024: Tube010
+    100026: Tube011
+    100028: Tube012
+    100030: Tube013
+    100032: Tube014
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: ChamferCyl002
+    400010: ChamferCyl011
+    400012: ChamferCyl012
+    400014: ChamferCyl013
+    400016: ChamferCyl014
+    400018: //RootNode
+    400020: Cylinder004
+    400022: Rectangle003
+    400024: Tube010
+    400026: Tube011
+    400028: Tube012
+    400030: Tube013
+    400032: Tube014
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: ChamferCyl002
+    2300010: ChamferCyl011
+    2300012: ChamferCyl012
+    2300014: ChamferCyl013
+    2300016: ChamferCyl014
+    2300018: Cylinder004
+    2300020: Rectangle003
+    2300022: Tube010
+    2300024: Tube011
+    2300026: Tube012
+    2300028: Tube013
+    2300030: Tube014
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: ChamferCyl002
+    3300010: ChamferCyl011
+    3300012: ChamferCyl012
+    3300014: ChamferCyl013
+    3300016: ChamferCyl014
+    3300018: Cylinder004
+    3300020: Rectangle003
+    3300022: Tube010
+    3300024: Tube011
+    3300026: Tube012
+    3300028: Tube013
+    3300030: Tube014
+    4300000: Cylinder004
+    4300002: ChamferCyl002
+    4300004: Tube010
+    4300006: Tube011
+    4300008: ChamferCyl011
+    4300010: ChamferCyl012
+    4300012: Tube012
+    4300014: ChamferCyl013
+    4300016: Tube013
+    4300018: Tube014
+    4300020: ChamferCyl014
+    4300022: Box001
+    4300024: Rectangle003
+    4300026: Box002
+    4300028: Box003
+    4300030: Box004
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
